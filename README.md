@@ -21,4 +21,4 @@ implementação de criação e exclução de tarefas e features como de contabil
 
 O layout pode ser visto através do Figma
 
-<a target="_blank">[Layout Web](target="_blank" https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate)</a>
+<a target="_blank">[Layout Web](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate)</a>
