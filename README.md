@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Capa do projeto" src="public/todo.gif" width="100%">
+<img alt="Capa do projeto" src="public/todo.gif" width="60%">
 </div>
 
 ## 💻 Projeto
