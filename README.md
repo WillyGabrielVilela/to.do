@@ -1,4 +1,4 @@
-##Projeto ToDo
+## Projeto ToDo
 
 <div align="center">
 <img alt="Capa do projeto" src="public/todo.gif" width="40%">
@@ -21,4 +21,4 @@ implementação de criação e exclução de tarefas e features como de contabil
 
 O layout pode ser visto através do Figma
 
-[Layout Web _blank](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate)
+[Layout Web](target="_blank" https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate)
