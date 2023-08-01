@@ -5,7 +5,7 @@
 </div>
 
 ## 💻 Projeto
-O projeto ToDO consistia em aplicar conceitos introdutórios de React com Tyoescript no desenvolvimento do zero desde a estrutura básica de criação com vite até 
+O projeto ToDo consistia em aplicar conceitos introdutórios de React com Tyoescript no desenvolvimento do zero desde a estrutura básica de criação com vite até 
 implementação de criação e exclução de tarefas e features como de contabilização de tarefas criadas e também de tarefas realizadas.
 
 ## 🚀 Tecnologias utilizadas
